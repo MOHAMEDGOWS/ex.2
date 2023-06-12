@@ -58,7 +58,9 @@ endmodule
 
 
 ## RTL Schematic:
-![Screenshot_20230526_085919](https://github.com/MOHAMEDGOWS/ex.2/assets/117954463/8378f335-f617-42e4-b667-1b85fd77a47e)
+![Screenshot 2023-06-12 104536](https://github.com/MOHAMEDGOWS/ex.2/assets/117954463/892c2e01-ec2e-474c-854a-fc4e9ccbecef)
+
+
 
 
 
